@@ -38,29 +38,29 @@ public class App {
     public static final int NUMO7 = 0135;
     public static final int NUMO8 = 01357;
     public static final int NUMO9 = 5;
-    public static final int NUMO10 = 10;
-    public static final int NUMO11 = 20;
-    public static final int NUMO12 = 100;
-    public static final int NUMO13 = 1000;
-    public static final int NUMO14 = 0x2;
-    public static final int NUMO15 = 0xC;
-    public static final int NUMO16 = 0xCA;
-    public static final int NUMO17 = 0xB0B0;
-    public static final int NUMO18 = 0xDAD0;
-    public static final int NUMO19 = 0xFE0;
-    public static final int NUMO21 = 0xFF;
-    public static final int NUMO22 = 2048;
-    public static final int NUMO23 = 512;
-    public static final int NUMO24 = 64;
-    public static final int NUMO25 = 8;
-    public static final int NUMO26 = 0246;
-    public static final int NUMO27 = 052;
-    public static final int NUMO28 = 07;
-    public static final int NUMO29 = 0b10101010101;
-    public static final int NUMO30 = 0b111000;
+    public static final int NUM10 = 10;
+    public static final int NUM11 = 20;
+    public static final int NUM12 = 100;
+    public static final int NUM13 = 1000;
+    public static final int NUM14 = 0x2;
+    public static final int NUM15 = 0xC;
+    public static final int NUM16 = 0xCA;
+    public static final int NUM17 = 0xB0B0;
+    public static final int NUM18 = 0xDAD0;
+    public static final int NUM19 = 0xFE0;
+    public static final int NUM21 = 0xFF;
+    public static final int NUM22 = 2048;
+    public static final int NUM23 = 512;
+    public static final int NUM24 = 64;
+    public static final int NUM25 = 8;
+    public static final int NUM26 = 0246;
+    public static final int NUM27 = 052;
+    public static final int NUM28 = 07;
+    public static final int NUM29 = 0b10101010101;
+    public static final int NUM30 = 0b111000;
 
     // Insanciación del Array "numeros".
-    public static int[] numeros = {NUMO1, NUMO2, NUMO3, NUMO4, NUMO5, NUMO6, NUMO7, NUMO8, NUMO9, NUMO10, NUMO11, NUMO12, NUMO13, NUMO14, NUMO15, NUMO16, NUMO17, NUMO18, NUMO19, NUMO21, NUMO22, NUMO23, NUMO24, NUMO25, NUMO26, NUMO27, NUMO28, NUMO29, NUMO30};
+    public static int[] numeros = {NUMO1, NUMO2, NUMO3, NUMO4, NUMO5, NUMO6, NUMO7, NUMO8, NUMO9, NUM10, NUM11, NUM12, NUM13, NUM14, NUM15, NUM16, NUM17, NUM18, NUM19, NUM21, NUM22, NUM23, NUM24, NUM25, NUM26, NUM27, NUM28, NUM29, NUM30};
 
     /**
      * El método lanzarAplicación es el método de entrada de la clase App.
